@@ -1,0 +1,7 @@
+folder1>anunt.txt,folder2,folder3
+folder2>lista.txt,test.ps1,folder4
+folder3>suma.txt,clienti.txt
+folder4>
+folder5>final.txt
+folder6>
+trash.txt

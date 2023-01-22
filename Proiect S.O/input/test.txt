@@ -1,0 +1,4 @@
+test>rezultat.txt,job.png,carte.pdf
+admitere> 
+poezii>alb.txt,volum
+volum>albastru.txt
